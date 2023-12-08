@@ -1,0 +1,16 @@
+h1 {color:black}
+h2 {color: rgb(56, 56, 56);}
+
+body{
+    pointer-events: auto !important;
+    background-size: 100% !important;
+    opacity: 0.90 !important;
+    background-position: 0 0 !important;
+    background-image: url(https://i.pinimg.com/originals/56/26/01/5626016c44ef43c2a454c371ff303d92.jpg);
+    content: '';
+    position: absolute;;
+    z-index: 999;
+    width: 100%;
+    background-repeat: no-repeat;
+    }
+    
